@@ -1,0 +1,26 @@
+
+.right-side{
+
+    width: 300px;
+    float: right;
+    display: flex;
+    margin-top: -4%;
+    justify-content: space-between;
+    position: fixed;
+  
+  }
+  
+  .right{
+  
+    width: 300px;
+    background-color: #dfe1ee;
+    float: right;
+    display: flex;
+    margin-top:-150%;
+    justify-content: space-between;
+    overflow-y:scroll;
+    height:2000px;
+  
+  
+  }
+  

@@ -1,0 +1,64 @@
+
+.list{
+
+    width: 300px;
+    height: 700px;
+    background-color: #f9f9f9;
+    overflow-y:scroll;
+    height:2000px;
+  
+  }
+  
+  .list_items{
+   list-style-type: none;
+  
+  
+  
+  }
+
+
+  
+.b3{
+
+    color: #b80a0a;
+  }
+  
+  
+  .b4{
+  
+    color: #1eb80a;
+  }
+  
+  .b5{
+  
+    color: #ffc609;
+  }
+  
+  
+  
+  .b6{
+  
+    margin-top: 3%;
+    color: #ffc609;
+  }
+  
+  
+  .profile{
+  
+    margin: auto ;
+    height: 150px;
+    border-radius: 10px;
+  
+  }
+  
+  
+  
+  .profile1{
+  
+    margin: auto ;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 15%;
+  
+  }
+  
